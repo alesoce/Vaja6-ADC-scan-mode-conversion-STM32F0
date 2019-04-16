@@ -1,4 +1,7 @@
 # Vaja6-ADC-scan-mode-conversion-STM32F0
+SLIKA POTENCIOMETROV TER VIDEOPOSNETK!!!
+
+
 ODGOVORI:
 
 2.
